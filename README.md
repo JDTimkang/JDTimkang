@@ -85,7 +85,7 @@
 
 ## 🧠 Project Overview
 
-**Fabric Classification & Identification** is an AI-powered mobile application designed to recognize and classify different **fabric and textile types** such as **cotton, denim, silk, wool, polyester, and other materials** using live camera input or static images.
+**Fabric Classification & Identification** is an AI-powered mobile application designed to recognize and classify different **fabric and textile types** such as **Linen, denim, silk, wool, Damask, Chiffon, Lace,Velvet,Leather, and canvas ** using live camera input or static images.
 
 The system uses a **custom-trained image classification model** developed with **Google Teachable Machine** and deployed through **TensorFlow Lite** inside a **Flutter mobile application**.  
 This architecture enables **fast, accurate, and fully offline predictions**, making the application reliable even in environments without internet connectivity.
